@@ -1,0 +1,95 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Upwork\Andreas Gstrein\2024\woldhaf\design\Newsletter_2024 Ordner\Newsletter_2024 Ordner\Document fonts\._FaunaOne-Regular.ttf
+FileModTime:1722342539
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Upwork\Andreas Gstrein\2024\woldhaf\design\Newsletter_2024 Ordner\Newsletter_2024 Ordner\Document fonts\._SourceSansPro-Bold.ttf
+FileModTime:1722342539
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Upwork\Andreas Gstrein\2024\woldhaf\design\Newsletter_2024 Ordner\Newsletter_2024 Ordner\Document fonts\._SourceSansPro-Regular.ttf
+FileModTime:1722342539
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FaunaOne
+FamilyName:Fauna One
+StyleName:Regular
+FullName:Fauna One
+MenuName:Fauna One
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Upwork\Andreas Gstrein\2024\woldhaf\design\Newsletter_2024 Ordner\Newsletter_2024 Ordner\Document fonts\FaunaOne-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:26880
+FileModTime:1722342539
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Fauna One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Bold
+FamilyName:Source Sans Pro
+StyleName:Bold
+FullName:Source Sans Pro Bold
+MenuName:Source Sans Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Upwork\Andreas Gstrein\2024\woldhaf\design\Newsletter_2024 Ordner\Newsletter_2024 Ordner\Document fonts\SourceSansPro-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:247412
+FileModTime:1722342539
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Regular
+FamilyName:Source Sans Pro
+StyleName:Regular
+FullName:Source Sans Pro
+MenuName:Source Sans Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Upwork\Andreas Gstrein\2024\woldhaf\design\Newsletter_2024 Ordner\Newsletter_2024 Ordner\Document fonts\SourceSansPro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:248132
+FileModTime:1722342539
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
